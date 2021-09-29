@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Prueba jest Enrique",
+            "program": "${workspaceRoot}/node_modules/jest/bin/jest.js",
+            "type": "node",
+            "request": "launch",
+            "args": ["-1"],
+            "internalConsoleOptions":"openOnSessionStart"
+        }
+    ]
+}
