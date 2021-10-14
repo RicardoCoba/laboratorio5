@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Prueba jest Enrique",
+            "name": "Prueba jest Ricardo",
             "program": "${workspaceRoot}/node_modules/jest/bin/jest.js",
             "type": "node",
             "request": "launch",

@@ -1,1 +1,0 @@
-# practica-laboratorio-uno
